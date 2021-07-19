@@ -1,7 +1,7 @@
 # PyBer Analysis
 
 ## Overview
-The main idea behind this analysis was to better understand the differences between the different city types. On overall averages and totals of metrics wouldn't give much direction because the overall average is more likely to apply to urban areas due to the grater number of rides. Suburban and Rural areas must be treated differently due to there being a difference in users. 
+The main idea behind this analysis was to better understand the differences between the city types. On overall averages and totals of metrics wouldn't give much direction because the overall average is more likely to apply to urban areas due to the grater number of rides and drivers. Suburban and Rural areas must be treated differently due to there being a difference in users and distances of rides. 
 
 ## Results
 
